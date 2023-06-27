@@ -1,0 +1,42 @@
+[
+    {
+        "credential" : "valid credential",
+        "username": "standard_user",
+        "password": "secret_sauce"
+    },
+    {
+        "credential" : "valid credential",
+        "username": "problem_user",
+        "password": "secret_sauce"
+    },
+    {
+        "credential" : "valid credential",
+        "username": "performance_glitch_user",
+        "password": "secret_sauce"
+    },
+    {
+        "credential" : "locked username",
+        "username": "locked_out_user",
+        "password": "secret_sauce"
+    },
+    {
+        "credential" : "incorrect username",
+        "username": "standard",
+        "password": "secret_sauce"
+    },
+    {
+        "credential" : "incorrect password",
+        "username": "standard_user",
+        "password": "secret"
+    },
+    {
+        "credential" : "empty username",
+        "username": "",
+        "password": "secret"
+    },
+    {
+        "credential" : "empty password",
+        "username": "standard_user",
+        "password": ""
+    }
+  ]
